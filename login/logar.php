@@ -10,5 +10,5 @@ require_once("../classes/login.php");
 $log = new Login();
 
 //$log->login($_POST['login'],$_POST['senha']);
-var_dump($log->login($_POST['login'],$_POST['senha']));
-exit('logar4');
+//ar_dump($log->login($_POST['login'],$_POST['senha']));
+//exit('logar4');
